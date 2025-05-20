@@ -23,7 +23,7 @@ This is a contact management app built by following the official [React Router v
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/react-router-contact-app.git
+git clone https://github.com/Gurvinder211/react-router-contact-app.git
 cd react-router-contact-app
 
 # Install dependencies
